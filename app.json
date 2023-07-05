@@ -2,9 +2,8 @@
   "expo": {
     "name": "projectNativeWind",
     "slug": "projectNativeWind",
+    "scheme": "projectnativewind",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
